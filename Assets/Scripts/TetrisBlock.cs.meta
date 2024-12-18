@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b7cba163e0f99348ba1da80c2be9658
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {fileID: 8300000, guid: 26931dfe583354b08ae4b459a4559350, type: 3}
+  - blockPlacedSound: {fileID: 8300000, guid: 656bc1d7757334fa38b51b90f13dac03, type: 3}
+  - linesClearedSound: {fileID: 8300000, guid: 4be0660b30bc144f0b7e958c05ccfc06, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
